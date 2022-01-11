@@ -1,0 +1,16 @@
+{
+  "name": "calculadora-intergalactica",
+  "version": "1.0.0",
+  "description": "Este simple cli te ayudará a calcular cuál sería tu peso en otros planetas del sistema solar.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "Ramiro Cabrera",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.3.1"
+  }
+}
