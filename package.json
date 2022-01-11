@@ -1,7 +1,7 @@
 {
   "name": "calculadora-intergalactica",
   "version": "1.0.0",
-  "description": "Este simple cli te ayudará a calcular cuál sería tu peso en otros planetas del sistema solar.",
+  "description": "A simple command line app that allows you to calculate your weight on another planet in the solar system.",
   "main": "app.js",
   "scripts": {
     "start": "node src/app.js"
